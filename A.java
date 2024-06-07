@@ -1,8 +1,14 @@
- package java.lang;
+ 
  class A{
     public static void main(String args[]){
-    //String8="hello";
-    Arraylist al;
+        public String toString(){
+            return "THA";
+        }
+
+        
+    //String name="hello";
+    //Arraylist al;
+    //System.out.println(name);
 
     }
     
